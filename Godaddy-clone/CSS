@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1 li a:hover{
+    background-color: rgb(103, 104, 105);
+    color: black !important;
+    border-radius: 10px;
+   
+}
+
+.div1 li a{
+    border-radius: 10px;
+}
+.nav1 {
+margin-left: 70px !important;
+font-size: 14px !important;
+}
+
+.nav2{
+  font-size: 14px !important;
+}
+
+
+
+/* Navigation end */
+
+.search_btn{
+    border: 1px solid rgb(9,117,122);
+ 
+ background-color: rgb(9,117,122) !important;
+ height: 65px;
+ width: 100px;
+ color: aliceblue;
+}
+.search_data1{
+    font-weight: bold;
+   font-size: 19px;
+    margin-top: -65px;
+    margin-left: 1150px;
+    color: rgb(118,118,118) !important;
+}
+.search_data2{
+   font-size: 12px;
+    margin-top: -30px;
+    margin-left: 1220px;
+    color: rgb(118,118,118) !important;
+}
+.search_input1{
+    width: 900px !important;
+    background-color: rgb(237, 247, 253) !important;
+}
+
+.div3{
+    margin-top: 80px !important;
+   
+    
+}
+.div4{
+    background-color: rgb(222,213,213);
+    /* margin-left: 130px;  */
+    border-bottom-left-radius:25px ;
+    border-top-left-radius:25px ;
+}
+.div5{
+    background-color: rgb(222,213,213);
+    border-bottom-right-radius:25px ;
+    border-top-right-radius:25px ;
+}
+img[alt='pot'] {
+   margin-left: 200px;
+   margin-top: 150px;
+    mix-blend-mode: color-burn;
+}
+.div6{
+ margin-left: 120px !important;  
+background-color: rgb(253,233,219);
+border-radius: 25px;
+text-align: center;
+}
+
+
+
+.head1{position: relative;
+    top:230px;
+    right: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+   font-size: 19px;
+   text-align: center;
+   width: 200px;
+    height: 30px;
+}
+/* home content End */
+/* 2nd Content */
+.div7{
+    font-size: 60px !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* 2nd Content ENd */
+
+/* cards */
+
+
+
+/* Cards End */
+
+/* content */
+.div10{
+ background-color: rgb(203,216,232);
+ 
+}
+img[alt='img2']{
+   margin-left: 80px;
+   margin-top: -152px;
+   
+}
+.div11{
+    background-color: rgb(225,232,246);
+    
+}
+
+.div9{
+    margin-top: 100px;
+}
+/* content End */
+
+/* content-2 */
+
+#div12{
+   border: 1px solid black; 
+   margin: 20px;
+   background-color: rgb(225,232,246);
+   height:110vh;
+   display: none;
+   cursor: pointer;
+   
+}
+
+/* content-2 End */
+/* Offer */
+#block{
+    border: 1px solid black;
+    height: 85vh;
+    background-color: black;
+    line-height: 25px;
+    padding-left: 60px;
+    
+    
+    
+}
+.block3{
+    margin-right:12px !important;
+}
+.div13 h5{
+    margin-top: 40px;
+}
+
+.div13 a{
+    letter-spacing: .5px;
+    font-size: 12px;
+    color: rgb(255,255,255);
+    
+}
+.div13 a:hover{
+   text-decoration: underline !important;
+}
+
+
+/* Offer ENd */
+
+
+/* footer */
+.div14{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 14px;
+}
+
+/* Footer End */
