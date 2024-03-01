@@ -1,0 +1,7 @@
+let b = document.getElementById("agreement")
+
+b.addEventListener("click",function(value){
+    
+   let a = document.getElementById("div12").style.display = "block"
+   console.log(value.target.remove())
+})
