@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Godaddy Clone</title>
+    <link rel="shortcut icon" href="../../Images/Godaddy/favicon.jfif" type="image/x-icon">
+    <link rel="stylesheet" href="../Css/Godaddy.css">
+</head>
+<body>
+    <!-- Navigation -->
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark border border-1 border-dark p-3">
+        <a href="#"><i class="fa-brands fa-golang text-white fa-2x " ></i></a>
+        <a class="navbar-brand text-white ms-2 " href="#"><b>GoDaddy</b> </a>
+        <div class="container-fluid ">
+          
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse div1" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active text-white ms-2" aria-current="page" href="#"><b>Domines</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white ms-4" href="#"><b>Websites and Hosting</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white ms-4 " href="#"><b>Security</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white ms-4" href="#"><b>Email and Marketing</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white ms-4 " href="#"><b>Pricing</b></a>
+              </li>
+              <li class="nav-item nav1">
+                <a class="nav-link text-white ms-4 " href="#"><b>Contact-us</b></a>
+              </li>
+              <li class="nav-item nav2">
+                <a class="nav-link text-white ms-4 " href="#"><b>Help</b></a>
+              </li>
+              <div class="collapse navbar-collapse nav3" id="navbarNavDarkDropdown">
+                <ul class="navbar-nav">
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Sign In
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-white me-4 mt-3 dropdown1" aria-labelledby="navbarDarkDropdownMenuLink">
+                      <li class="dropdown-item" >Registered Users</li>
+                      <li class="dropdown-item">Have an account? <br> Sign in now.</li> 
+                      <li><a href="#"class=" ms-3" >Sign In</a></li><hr>
+                      <li class="dropdown-item" >New Customer</li>
+                      <li class="dropdown-item">New to GoDaddy?  Create an <br> account <br> to get started today.</li> 
+                      <li><a href="#" class=" ms-3" >Create an Account</a></li><hr>
+                      <li class="dropdown-item">INBOX LINKS</li> 
+                      <li><a href="#" class=" ms-3" >Sign in to Office 365 Email</a>
+                        <li><a href="#" class=" ms-3" >Sign in to GoDaddy Webmail</a>
+                          
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+              <i class="fa-solid fa-cart-shopping text-white mt-3 ms-5" ></i>
+            </ul>
+            
+          </div>
+        </div>
+      </nav>
+
+      <!-- Navigation End -->
+
+      <!-- search bar -->
+      <div class="container">
+        <form class="d-flex">
+          <input class="form-control me-2 mt-4 search_input1" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success search_btn text-white mt-4" type="submit">Search</button>
+        </form>
+      </div>
+      <span><h1 class="search_data1 ">.today</h1>
+      </span><p  class="search_data2 ">₹165.83 <sup>*</sup></p>
+
+      <!-- search bar End -->
+ 
+      <!-- home content -->
+      <div class="container">
+      <div class="d-flex row div3 ">
+        <div class="col-sm-4 div4">
+         
+            <div class="body p-3">
+              <h6 ><b>Domain Names</b></h6>
+              <h1 class="text "><b>Your big idea<br>deserves a<br>great domain<br>name.</b></h1>
+              <p style="font-size:18px;line-height:35px;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;width: 300px;">Your domain name is often the first point of contact between your audience and your brand. A professional and memorable domain name gives your business or project credibility.</p>
+
+              <button type="button" class="btn btn-dark p-2 ps-5 pe-5"><b>Find Yours</b></button>
+       </div>
+          
+        </div>
+        
+          <div class="col-sm-4 div5">
+            
+              <h2 class=" head1" >WWW.__________.com</h2>
+              <img src="../../Images/Godaddy/pot.jfif" alt="pot">
+          </div>
+        <div class="col-sm-3 div6 ms-4 ">
+          <div class="">
+            <div class="body">
+              <p  class="title mt-5"><b>Websites + Marketing</b></p>
+              <h1 class="text">Create your free website.</h1>
+            <button href="#" class="btn btn-dark ps-5 pe-5 p-3 mt-5">Start for Free</button>
+            <h4 class="mt-3">Learn More</h4>
+            <p style="font-size:13px ;">No charge, no obligation, nothing to cancel.<sup>**</sup></p>
+            </div>
+          </div>
+        </div>
+      </div></div>
+      <!-- home content End -->
+
+      <!-- 2nd Content -->
+
+      <div class="content_data text-center mt-5 p-5 "><h1 class="fst-normal div7"><b>More tools to grow your business.</b>
+    </h1>
+<p class="fw-bold">We’re known for domains, but check out other essentials to take your business further online.</p></div>
+      <!-- 2nd Content ENd -->
+   
+   <!-- Cards -->
+    <div class="container">
+   <div class=" d-flex row col-12">
+    <div class=" col-sm-6 div8">
+      <img src="../../Images/Godaddy/card1.webp" class="card-img-top" alt="...">
+      <div class="body">
+        <h2 class="title">Professional Email</h2>
+        <p class="text">Show customers you’re a pro with an email address that matches your domain. Get Professional Email today..</p>
+        <p class="text">As low as</p>
+        <p><b class="fs-3">₹ 34.00</b> per user/mo</p>
+        <button class="border border-2 border-dark rounded ps-5 pe-5 p-3 mt-3">Explore Plans</button>
+      </div>
+    </div>
+    <div class=" col-sm-6">
+      <img src="../../Images/Godaddy/card2.webp" class="card-img-top" alt="...">
+      <div class="body">
+        <h2 class="title">Web Hosting</h2>
+        <p class="text-dark">Whether you want hosting for one or 100 websites, we’ve got plans to keep everything running in peak form.</p>
+        <p class="text">As low as</p>
+        
+    <p><b class="fs-3 fst-normal">₹ 79.00 </b>per user/mo</p>
+        <button class="border border-2 border-dark rounded ps-5 pe-5 p-3 mt-3">Explore Plans</button>
+      </div>
+    </div>
+  </div></div>
+  
+
+   <!-- Cards End -->
+   
+   <!-- content -->
+   <div class="container-fluid div9 row mt-5">
+    
+      <div class="col-sm-7  div10">
+        
+         
+            
+            <p class="text fs-6 mt-4 pt-5 ps-5 pe-5"><b>Suraiya J.</b></p>
+            <p class="ps-5">GoDaddy Guide</p>
+
+            <img src="../../Images/Godaddy/img-1.png" height="500px" alt="img2">
+          
+       
+      </div>
+      <div class="col-sm-5  div11 ">
+       
+          
+            <h5 class="title  mt-4 pt-5 ps-5 pe-5"><b>GoDaddy</b> guides</h5>
+            <h1 class="text ps-5 fs-1">We love to help. <br> Seriously.</h1>
+
+            <p class="ps-5 mt-3">Still not sure what you need? Give us a call. We’re happy to help, even if you’re not a customer. Call us at 040-67607600 and we'll chat — or get back to you as soon as we can.</p>
+           
+         <button class="bg-dark border border-1 text-white p-3
+         ps-5 pe-5 rounded m-5">Get Help</button>
+        
+      </div>
+    </div>
+
+   </div>
+
+   <!-- Content End -->
+   <!-- content-2 -->
+<div class="container">
+  <p class=" mt-5" id="agreement"><u><sup>*</sup><sub>,</sub><sup>***</sup>Disclaimers</u></p>
+
+  <p class="fs-5">Third-party logos and marks are registered trademarks of their respective owners. All rights reserved.</p>
+
+<p class="text-center fs-4 ">Need help? Call our award-winning support team at 040-67607600</p>
+</div>
+<div id="div12" class="alert alert-warning alert-dismissible" role="alert">
+
+  <h6>Disclaimers</h6>
+
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+  <h6>* ICANN fee included.</h6>
+  <p>Sale/introductory pricing valid for the initial purchase term only. Product renewal pricing subject to change.</p>
+  <p>Products will automatically renew until cancelled. You may turn off the auto-renewal feature by visiting your GoDaddy account.</p>
+
+  <p>The Free Website service is a free version of the Websites + Marketing service and will renew on a monthly basis without charging you.  Not all features available in the Websites + Marketing service are included in the Free Website service. Should you choose to add additional Websites + Marketing features or services to your Free Website service it will convert to a paid plan which will automatically renew at the then-current renewal price with no further action from you, until cancelled. You may cancel the automatic renewal of the free service or the converted paid plan at any time by visiting your account and turning off the auto-renewal feature (“cancel renewal”), or by contacting customer service. If you choose to cancel Free Website service, any content or data you have entered into the service will only be retained for 60 days from the date of cancellation for customers with billing addresses in non-GDPR countries or 30 days from the date of cancellation for customers with billing addresses in GDPR countries.  In addition, GoDaddy reserves the right to deactivate a site if it is inactive for over a year, which means the site has had no traffic and/or no customer logins, or at GoDaddy's sole discretion. Customer support may be limited for this Free Service and may be modified at GoDaddy's sole discretion at any time.  </p>
+
+  <p>GoDaddy reserves the right to cancel, suspend or modify part of this entire offer at any time without notice, for any reason in its sole discretion. This service cannot be resold, transferred or combined with any other offer. Your use of this service is subject to the GoDaddy Universal Terms of Service, GoDaddy Privacy Policy, and any other applicable agreements.</p>
+
+  <p>** Your free trial is for one month. A credit card is not required to sign up for the free trial, however you can choose to subscribe to a Website Builder plan at any time during the free trial. Once the free trial ends you will be required to provide a credit card in your GoDaddy account to continue with a Website Builder plan. If you already have a credit card on file in your GoDaddy account, you can choose to turn on auto-renew for the Website Builder plan and will be charged at the end of the free trial. Plans will automatically renew until cancelled.</p>
+
+  <p>Due to registry restrictions, some domains are not eligible for privacy protection. Please see the Domain Name Proxy Agreement for details: <a href="#">Domain name proxy agreement.</a></p>
+</div>
+
+
+
+
+<!-- Content -2 End -->
+<!-- offers -->
+
+<nav class="navbar  navbar-expand-lg block3 navbar-light bg-dark ">
+  <a href="#"><i class="fa-brands fa-golang text-white fa-2x ms-3 mt-1" ></i></a>
+  <i class="fa-solid fa-greater-than text-white ms-3"></i>
+  <a class="navbar-brand text-white ms-4 " href="#">Offers</a>
+
+</nav>
+  <div id="block" class="container-fluid row col-12  div13">
+    <div class="col-2 block2">
+      
+      <h5 class="text-white ">About GoDaddy</h5>
+      <p><a href="#" class="text-white text-decoration-none">About Us</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Annual Returns</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Careers</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Contact Us</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Corporate Social Responsibility</a></p>
+      <p><a href="#" class="text-white text-decoration-none">GoDaddy Blog</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Investor Relations</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Legal</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Newsroom</a></p>
+      <p><a href="#" class="text-white text-decoration-none">Trust Center</a></p>
+
+     
+  </div>
+
+  <div class="col-2 block2">
+    <h5 class="text-white ">Support</h5>
+    <p><a href="#" class="text-white text-decoration-none">Product</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Support</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Community</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Report Abuse</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Resources</a></p>
+    
+  </div>
+  <div class="col-2 block2">
+    <h5 class="text-white ">Resources</h5>
+    <p><a href="#" class="text-white text-decoration-none">Webmail</a></p>
+    <p><a href="#" class="text-white text-decoration-none">WHOIS</a></p>
+    <p><a href="#" class="text-white text-decoration-none">ICANN Confirmation</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Designers & Developers</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Redeem Code</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Product Catalog</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Customer Testimonials</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Business Name</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Generator</a></p>
+  
+  </div>
+
+
+  <div class="col-2 block2">
+    <h5 class="text-white ">Partner Programs</h5>
+    <p><a href="#" class="text-white text-decoration-none">Affiliates</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Reseller Programs</a></p>
+    <p><a href="#" class="text-white text-decoration-none">GoDaddy Pro</a></p>
+    </div>
+
+  <div class="col-2 block2">
+    <h5 class="text-white ">Account</h5>
+    <p><a href="#" class="text-white text-decoration-none">My Products</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Renewals & Billing</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Create Account</a></p>
+    
+  </div>
+
+  <div class="col-2 block2">
+    <h5 class="text-white ">Shopping</h5>
+    <p><a href="#" class="text-white text-decoration-none">Buy a Domain</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Websites</a></p>
+    <p><a href="#" class="text-white text-decoration-none">WordPress</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Hosting</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Web Security</a></p>
+    <p><a href="#" class="text-white text-decoration-none">Email & Office</a></p>
+  </div></div>
+  
+    <nav class="navbar  navbar-expand-lg block3 navbar-light bg-dark ">
+      <a href="#"><i class="fa-brands fa-golang text-white fa-2x ms-3 mt-1" ></i></a>
+      
+      <a class="navbar-brand text-white ms-4 " href="#"><b>GoDaddy</b></a>
+      
+    
+    </nav>
+ 
+<!-- Offers-ENd -->
+   <!-- footer -->
+<div class="row div14 block3 border border-1 border-white p-5">
+  <div class="col-9">
+    <p>Copyright © 1999 - 2024 GoDaddy Operating Company, LLC. All Rights Reserved. The GoDaddy word mark is a registered trademark of GoDaddy Operating Company, LLC in the US and other countries. The “GO” logo is a registered trademark of GoDaddy.com, LLC in the US.
+    </p>
+    <p>Use of this Site is subject to express terms of use. By using this site, you signify that you agree to be bound by these Universal Terms of Service.</p>
+
+  </div>
+  <div class="col-3 ">
+<a href="#" class="text-white text-decoration-none ms-3">Legal</a>
+<a href="#" class="text-white text-decoration-none ms-3">Privacy Policy</a>
+<a href="#" class="text-white text-decoration-none ms-3">Cookies</a>
+  </div>
+</div>
+
+   <!--  footer End -->
+   
+   
+   
+   
+   
+   <!-- fontawesome -->
+   
+      <script src="https://kit.fontawesome.com/2838a2785f.js" crossorigin="anonymous"></script>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+    <script src="../Js/Godaddy.js"></script>
+  </body>
+</html>
+</body>
+</html>
