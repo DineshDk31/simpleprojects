@@ -1,0 +1,80 @@
+@media only screen and (max-width: 768px) 
+{
+    #menuicon{
+        
+        display: flex;
+        justify-content:flex-end !important;
+       margin-left:160px;
+        
+       }
+
+    #rightnavigation{
+        background-color: black;
+        display: flex;
+       flex-direction: column;
+        margin-top: 60px;
+       width: 100px;
+        height: 300px;
+       position: absolute;
+       left: 0px;
+      visibility: hidden;
+   
+       }
+      #closeicon{
+        padding-right: 40px;
+        display: block;
+      }
+       #rightnavigation a:hover{
+        border-radius: 15px;
+        transform: scale(1.2);
+      
+        color: black;
+        
+        
+        filter:drop-shadow(10px 6px 3px yellow);
+        color: yellow;
+        font-weight: bold;
+        font-size: 18px;
+       
+    }
+
+       
+
+    #home{
+        display: none;
+        height: 300px;
+        background-color: rgb(20, 25, 48);
+        
+    }
+
+
+    /* About */
+    #about{
+        margin-top: -100px;
+    }
+    /* About End */
+/* education */
+#education{
+    margin-top: -30px;
+     height: 230vh; 
+    background-color: rgb(20, 25, 48);
+}
+#carouselExampleInterval{
+    display: none;
+}
+/* Education End */
+/* contact */
+#contact{
+    height: 120vh;
+}
+#contact textarea{
+    width: 80%;
+}
+/* contact End */
+
+#fa2{
+display: none;
+
+}
+
+}     
